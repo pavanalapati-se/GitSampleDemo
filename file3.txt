@@ -1,1 +1,2 @@
 This is the thirdfile in file3s
+file 3 changed from dev.
